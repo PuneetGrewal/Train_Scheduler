@@ -1,7 +1,7 @@
 .phony all:
 all: train_scheduler
 
-mts: mts.c
+mts: train_scheduler.c
 	gcc train_scheduler.c -pthread -o mts
 
 .PHONY clean:
