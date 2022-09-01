@@ -1,17 +1,3 @@
-Name: Puneet Grewal
-V#: V00951156
-Class: CSC 360 A01
-Assignment: P2B
-
-DISCLAIMER:
-
-I have not complemented the implementation of the assignment and was only able to
-complete the first part where trains are loaded.
-I have been sick the past few days and requested an extension however have not
-heard anything from Professor Pan (13th March 2022).
-
-
-
 INSTRUCTIONS:
 
 1. Program can be compiled using "make" command which runs the included makefile
@@ -27,16 +13,6 @@ file that follows the following criteria:
 
 3. My program will print the times according to the format and the times at
 which the trains are ready. I was not able to complete the rest of the process.
-
-
-
-REGARDING MTS.C and P2A:
-
-I have tried to maintain a similar format to my submitted my p2a however since
-I was not fully able to implement it, some features are lacking.
-The loading time algorithm that I used is according to my P2A where trains are
-loaded into a data structure and then printed once they are ready to
-leave the station.
 
 
 MAIN FUNCTIONS USED AND EXPLANATIONS:
@@ -61,7 +37,6 @@ of the trains to the data structures
 
 REFERENCES AND SOURCES:
 
-1. CSC 360 Tutorial 7 for the time section of mts.c
 
 Partial Linked List Structure used from following sources:
 
